@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<actividad2>
+    <comentario>
+        Como podemos observar en el documento de abajo, se presentaban
+        23 errores de sintaxis, entre ellos etiquetas sin cerrar correctamente,
+        una etiqueta mal formulada, errores al redactar el contenido,
+        distintos nombres para la misma etiqueta, etc.
+    </comentario>
+<libros>
+    <libro id="quijote">
+        <titulo>El Quijote</titulo>
+        <autor>nombre=cervantes</autor>
+        <descripcion>Es el mejor libro de cervantes.</descripcion>
+    </libro>
+</libros>
+</actividad2>

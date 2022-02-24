@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<documento1>
+<comentario>
+    Como podemos observar en el documento de abajo, se presentaban
+    15 errores de sintaxis, entre ellos etiquetas sin cerrar,
+    multiples etiquetas en una sola, etc.
+</comentario>
+<documento>
+<p>
+<destacarimportancia>
+    Mi primer documento XML
+</destacarimportancia>
+</p>
+<p>Comienza con la etiqueta</p>
+<p>A continuacion colocamos un elemento sin contenido</p>
+<imagen fichero="imagen.gif"/>
+</documento>
+</documento1>
